@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\BagrutListLab-master\bin\Debug\net6.0\BagrutListLab.exe
+C:\Users\User\Downloads\BagrutListLab-master\bin\Debug\net6.0\BagrutListLab.deps.json
+C:\Users\User\Downloads\BagrutListLab-master\bin\Debug\net6.0\BagrutListLab.runtimeconfig.json
+C:\Users\User\Downloads\BagrutListLab-master\bin\Debug\net6.0\BagrutListLab.dll
+C:\Users\User\Downloads\BagrutListLab-master\bin\Debug\net6.0\BagrutListLab.pdb
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.AssemblyInfo.cs
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.dll
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\refint\BagrutListLab.dll
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.pdb
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\BagrutListLab.genruntimeconfig.cache
+C:\Users\User\Downloads\BagrutListLab-master\obj\Debug\net6.0\ref\BagrutListLab.dll

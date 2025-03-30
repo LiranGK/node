@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BagrutListLab/1.0.0": {
+        "runtime": {
+          "BagrutListLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BagrutListLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
